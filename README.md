@@ -6,7 +6,10 @@
 <div align="center">
 <img width="100%" height = "350px" src="https://cdn.eso.org/images/publicationjpg/vlt-mw-potw.jpg" alt="cover" />
 </div>
+    <audio autoplay loop canplay controls>
+        <source src="assets/audio/MenuMusic01.mp3" type="audio/mp3">
 
+    </audio>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
