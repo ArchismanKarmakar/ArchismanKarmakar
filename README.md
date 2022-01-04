@@ -29,7 +29,7 @@
 
 - 💬 Talk to me about Astrophysics, Cosmology,  Physics, Coding, Quantum Computers, Quantum Technology ... 
   
-- #### My GitHub profiles: 1.[Archisman Karmakar](https://www.github.com/ArchismanKarmakar) 2.[AK](https://www.github.com/archi221aritra221) 3.[Blasteoroid Corporation](https://www.github.com/blasteoroid-corporation-kbps10240)
+- #### My GitHub profiles: 1.[Archisman Karmakar](https://www.github.com/ArchismanKarmakar) 2.[AK](https://www.github.com/archi221aritra221) 3.[Blasteoroid Corporation](https://www.github.com/blasteoroid-corporation-kbps10240) in collaboration with [Aritra Bhaduri](https://www.github.com/aritroCoder)
   
 - #### My Performance: <p align="left"><br /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archismankarmakar" alt="archismankarmakar" /></a> </p>
 
