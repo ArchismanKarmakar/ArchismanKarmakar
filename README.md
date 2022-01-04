@@ -22,7 +22,7 @@
 
 
 - 🔭 I’m currently working on [CodePeak (India's Largest Open Source contribution event)](codepeak.tech)
-  <> (- 🔭 I’m currently working on My Password Manager & few of my Projects)
+[comment]: # (- 🔭 I’m currently working on My Password Manager & few of my Projects)
 
 - 🌱 I’m currently learning Full Stack Cloud Development @IBM Cloud. 
 
