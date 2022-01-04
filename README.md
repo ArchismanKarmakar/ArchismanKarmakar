@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Archisman Karmakar</h1>
 <h3 align="center">I'm a passionate developer/coder from India.  Thank You for taking the time to view my GitHub Profile :smile:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archismankarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="archismankarmakar" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=archismankarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="archismankarmakar" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=archismankarmakar&label=Profile%20views&color=0e75b6&style=flat-square" alt="archismankarmakar" /> </p>
 
 <div align="center">
 <img width="100%" height = "350px" src="https://cdn.eso.org/images/publicationjpg/vlt-mw-potw.jpg" alt="cover" />
@@ -82,7 +83,9 @@
 
 <br />
 
-![Most Langs used](https://github-readme-stats.vercel.app/api/top-langs?username=archismankarmakar&show_icons=true&locale=en&layout=compact) ![Stats](https://github-readme-stats.vercel.app/api?username=archismankarmakar&show_icons=true&locale=en) ![Activity](https://github-readme-streak-stats.herokuapp.com/?user=archismankarmakar&)
+![Most Langs used](https://github-readme-stats.vercel.app/api/top-langs?username=archismankarmakar&show_icons=true&theme=cobalt&locale=en&layout=compact) ![Stats](https://github-readme-stats.vercel.app/api?username=archismankarmakar&show_icons=true&theme=synthwave&locale=en) ![Activity](https://github-readme-streak-stats.herokuapp.com/?user=archismankarmakar&theme=dark)
+
+<!-- ![Most Langs used](https://github-readme-stats.vercel.app/api/top-langs?username=archismankarmakar&show_icons=true&locale=en&layout=compact) ![Stats](https://github-readme-stats.vercel.app/api?username=archismankarmakar&show_icons=true&locale=en) ![Activity](https://github-readme-streak-stats.herokuapp.com/?user=archismankarmakar&) -->
 
 <!-- <br /> -->
  
