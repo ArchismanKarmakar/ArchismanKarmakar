@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archisman Karmakar</h1>
 <h3 align="center">I'm a passionate developer/coder from India.  Thank You for taking the time to view my GitHub Profile :smile:</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=archismankarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="archismankarmakar" style="scale: 200%;"/> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=archismankarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="archismankarmakar" style="transform: scale(2, 2);"/> </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archismankarmakar&label=Profile%20views&color=0e75b6&style=flat-square" alt="archismankarmakar" /> </p>
 
 <div align="center">
