@@ -6,7 +6,7 @@
 
 <div align="center">
 <!-- <img width="100%" height = "350px" src="https://cdn.eso.org/images/publicationjpg/vlt-mw-potw.jpg" alt="cover" /> -->
-![img_10142-cc](https://user-images.githubusercontent.com/92569441/217648482-b76b1a6f-0588-41df-afba-0fc03ecac3d4.png)
+<!-- <img width="100%" height = "350px" src="https://cdn.eso.org/images/large/img_10142-cc.jpg" alt="cover" /> -->
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
