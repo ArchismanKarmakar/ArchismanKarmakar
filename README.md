@@ -3,11 +3,10 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=archismankarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="archismankarmakar" /> </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archismankarmakar&label=Profile%20views&color=0e75b6&style=flat-square" alt="archismankarmakar" /> </p>
-![img_10142-cc](https://user-images.githubusercontent.com/92569441/217648088-c0d03c75-5747-402e-a262-2bc70bc7e5d0.png)
 
 <div align="center">
 <!-- <img width="100%" height = "350px" src="https://cdn.eso.org/images/publicationjpg/vlt-mw-potw.jpg" alt="cover" /> -->
-<img width="100%" height = "350px" src="[https://cdn.eso.org/images/publicationjpg/vlt-mw-potw.jpg](https://user-images.githubusercontent.com/92569441/217648088-c0d03c75-5747-402e-a262-2bc70bc7e5d0.png)" alt="cover" />
+![img_10142-cc](https://user-images.githubusercontent.com/92569441/217648482-b76b1a6f-0588-41df-afba-0fc03ecac3d4.png)
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
