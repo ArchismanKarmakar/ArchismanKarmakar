@@ -25,12 +25,13 @@
 
 - AIR 10785 GMR JEE Advanced 2021
  
-- 🔭 I’m currently working on [CodePeak (India's Largest Open Source contribution event)](https://codepeak.tech)
+- 🔭 I’m currently working on my goals.
+<!-- - 🔭 I’m currently working on [CodePeak (India's Largest Open Source contribution event)](https://codepeak.tech) -->
 <!-- [comment]: # (- 🔭 I’m currently working on My Password Manager & few of my Projects) -->
 
-- 🌱 I’m currently learning Full Stack Cloud Development @IBM Cloud. 
+- 🌱 I’m currently learning []. 
 
-- 👯 I’m looking to collaborate on WebDev, C, C++,  .NET Projects 
+- 👯 I’m looking to collaborate on WebDev, C, C++,  .NET Projects.
 
 - 💬 Talk to me about Astrophysics, Cosmology,  Physics, Coding, Quantum Computers, Quantum Technology ... 
   
