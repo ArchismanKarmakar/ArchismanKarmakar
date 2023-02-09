@@ -42,7 +42,7 @@
   
 <!-- - #### My Performance: <p align="left"><br /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archismankarmakar" alt="archismankarmakar" /></a> </p> -->
 
-- #### My Performance: <p align="left"><br /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archismankarmakar&theme=monokai&no-frame=false&no-bg=false&margin-w=4" alt="archismankarmakar" /></a> </p>
+- #### My Performance: <p align="left"><br /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archismankarmakar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="archismankarmakar" /></a> </p>
 
 
 <h2> Skills & Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  💻</h2>
