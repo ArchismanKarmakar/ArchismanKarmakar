@@ -6,7 +6,7 @@
 
 <div align="center">
 <!-- <img width="100%" height = "350px" src="https://cdn.eso.org/images/publicationjpg/vlt-mw-potw.jpg" alt="cover" /> -->
-<img width="100%" height = "350px" src="https://cdn.eso.org/images/large/img_10142-cc.jpg" alt="cover" />
+<img width="100%" height = "350px" src="https://www.eso.org/public/archives/images/large/img_10142-cc.jpg42-cc.jpg" alt="cover" />
 </div>
 <!-- https://cdn.eso.org/images/large/img_10142-cc.jpg
 https://www.eso.org/public/archives/images/large/img_10142-cc.jpg -->
