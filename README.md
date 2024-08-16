@@ -21,7 +21,7 @@
   
 - #### My other GitHub contributions: 
   - 1.[Archisman Karmakar](https://www.github.com/ArchismanKarmakar) 
-  - 2.[AK](https://www.github.com/archi221aritra221) 
+  - 2.[Archisman](https://www.github.com/ArchismanCoder) 
   - 3.[Blasteoroid Corporation](https://www.github.com/blasteoroid-corporation-kbps10240) in collaboration with [Aritra Bhaduri](https://www.github.com/aritroCoder)
 
 - **My Trophy Stats:**
