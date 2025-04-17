@@ -9,15 +9,21 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<!--
 - 🏆 AIR 10785 GMR JEE Advanced 2021.
+-->
 
 - 🔭 I’m currently working on **my goals.**
 
-- 🌱 I’m currently learning **Rust, GoLang, NLP, Data Science, Penetration Testing.**
+<!--
+- 🌱 I’m currently learning **Rust, GoLang, NLP, Data Science, AI, Penetration Testing.**
+-->
+
+- 🌱 I’m currently learning **Rust, GoLang, NLP, Data Science, AI.**
 
 - 👯 I’m looking to collaborate on **C, C++, .NET, Full Stack, Data Science Projects.**
 
-- 💬 Talk to me about Astrophysics, Cosmology,  Physics, Coding, Quantum Computers, Quantum Technology ... 
+- 💬 Talk to me about Astronomy, Cosmology, Physics, Engineering, Development, Coding, AI, Finance, Quantum Technology ... 
   
 - #### My other GitHub contributions: 
   - 1.[Archisman Karmakar](https://www.github.com/ArchismanKarmakar) 
