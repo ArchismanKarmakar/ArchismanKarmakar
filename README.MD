@@ -25,7 +25,7 @@
 - **My Trophy Stats:**
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=archismankarmakar&theme=flat&no-frame=true&margin-w=10&row=1&column=6" alt="archismankarmakar trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArchismanKarmakar&theme=flag-india&no-frame=false&no-bg=false&margin-w=4" alt="archismankarmakar trophies" />
 </p>
 
 ### Blogs posts
@@ -58,17 +58,19 @@
 <td align="center"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/><br/>Zapier</td>
 </tr></table>
 
-<br/>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchismanKarmakar&theme=flag-india&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ArchismanKarmakar&theme=flag-india&show_icons=true&hide_border=false&count_private=false" alt="GitHub Stats" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=ArchismanKarmakar&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArchismanKarmakar&theme=flag-india&hide_border=false" alt="GitHub Streak" />
-</div>
+![](https://streak-stats.demolab.com/?user=ArchismanKarmakar&theme=flag-india&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArchismanKarmakar&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ArchismanKarmakar&limit=5&theme=flag-india&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=ArchismanKarmakar&color=0e75b6&style=flat-square)](https://visitcount.itsvg.in)
 
 <h2> Some Programming Humor for you <img align='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width='32px'></h2>
 
