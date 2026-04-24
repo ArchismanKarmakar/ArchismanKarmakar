@@ -39,24 +39,17 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@archismancoder)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/archismancoder)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/archismancoder)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@thisisarchismancoder)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ThisIsArchismanCoder)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/archismank)
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=android,bootstrap,c,cpp,cs,css,dart,django,docker,dotnet,electron,express,figma,firebase,flutter,git,go,graphql,heroku,html,java,js,kafka,linux,mongodb,mysql,nodejs,postgres,postman,py,qt,react,rust,sklearn,tailwind,pytorch,tensorflow,ts&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=android,bootstrap,c,cpp,cs,css,chartjs,dart,django,docker,dotnet,electron,express,figma,firebase,flutter,git,go,graphql,heroku,html,java,js,kafka,linux,matlab,mongodb,mysql,nodejs,opencv,postgres,postman,ps,py,qt,react,rust,sklearn,tailwind,pytorch,tensorflow,ts&perline=13)](https://skillicons.dev)
 
-<table><tr>
-<td align="center"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/><br/>Chart.js</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/><br/>MATLAB</td>
-<td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/><br/>SQL Server</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/><br/>OpenCV</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/><br/>Oracle</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><br/>Pandas</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/><br/>Photoshop</td>
-<td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/><br/>Seaborn</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/><br/>Zapier</td>
-</tr></table>
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 ## 📊 GitHub Stats
 
