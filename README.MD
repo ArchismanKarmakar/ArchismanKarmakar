@@ -25,9 +25,7 @@
 - **My Trophy Stats:**
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=archismankarmakar&theme=flat&no-frame=true&margin-w=10" alt="archismankarmakar" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=archismankarmakar&theme=flat&no-frame=true&margin-w=10&row=1&column=6" alt="archismankarmakar trophies" />
 </p>
 
 ### Blogs posts
@@ -35,32 +33,30 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/archismancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="archismancoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/archismankarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archismankarmakar" height="30" width="40" /></a>
-<a href="https://medium.com/@archismancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@archismancoder" height="30" width="40" /></a>
-<a href="https://kaggle.com/archismancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="archismancoder" height="30" width="40" /></a>
-<a href="https://instagram.com/archismancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="archismancoder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@thisisarchismancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thisisarchismancoder" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/archismank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="archismank" height="30" width="40" /></a>
-</p>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/archismancoder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/archismankarmakar)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@archismancoder)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/archismancoder)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/archismancoder)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@thisisarchismancoder)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/archismank)
 
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=android,bootstrap,c,cpp,cs,css,dart,django,docker,dotnet,electron,express,figma,firebase,flutter,git,go,graphql,heroku,html,java,js,kafka,linux,mongodb,mysql,nodejs,postgres,postman,py,qt,react,rust,sklearn,tailwind,pytorch,tensorflow,ts&perline=13)](https://skillicons.dev)
 
-<!-- Icons not on skillicons.dev rendered separately -->
-<p align="left">
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-</p>
+<table><tr>
+<td align="center"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/><br/>Chart.js</td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/><br/>MATLAB</td>
+<td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/><br/>SQL Server</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/><br/>OpenCV</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/><br/>Oracle</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><br/>Pandas</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/><br/>Photoshop</td>
+<td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/><br/>Seaborn</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/><br/>Zapier</td>
+</tr></table>
 
 <br/>
 
