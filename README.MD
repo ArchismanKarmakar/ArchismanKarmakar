@@ -39,7 +39,7 @@
 <a href="https://kaggle.com/archismancoder" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="40" /></a>
 <a href="https://instagram.com/archismancoder" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" /></a>
 <a href="https://youtube.com/@ThisIsArchismanCoder" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40" /></a>
-<a href="https://www.codechef.com/users/archismank" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" /></a>
+<a href="https://www.codechef.com/users/archismancoder" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" /></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
