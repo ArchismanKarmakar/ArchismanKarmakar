@@ -11,7 +11,8 @@
 
 - 🔭 I'm currently working on **my goals.**
 
-- 🌱 I'm currently learning **a lot of things.** <!--- **Rust, GoLang, NLP, Data Science, AI.** --->
+- 🌱 I'm currently learning **a lot of things.** 
+<!-- **Rust, GoLang, NLP, Data Science, AI.** -->
 
 - 👯 I'm looking to collaborate on **NLP, Quantum tech based computing, AGI, Image processing, HPC, low level & compiler research projects**
 
