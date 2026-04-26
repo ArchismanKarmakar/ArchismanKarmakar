@@ -11,11 +11,11 @@
 
 - 🔭 I'm currently working on **my goals.**
 
-- 🌱 I'm currently learning **Rust, GoLang, NLP, Data Science, AI.**
+- 🌱 I'm currently learning **a lot of things.** <!--- **Rust, GoLang, NLP, Data Science, AI.** --->
 
-- 👯 I'm looking to collaborate on **C, C++, .NET, Full Stack, Data Science Projects.**
+- 👯 I'm looking to collaborate on **NLP, Quantum tech based computing, AGI, Image processing, HPC, low level & compiler research projects**
 
-- 💬 Talk to me about Astronomy, Cosmology, Physics, Engineering, Development, Coding, AI, Finance, Quantum Technology ...
+- 💬 Talk to me about Astronomy, Astrophysics, Core Engineering, Finance, Quantum Technology, collaborative engineering, research etc ...
 
 - #### My other GitHub contributions:
   - 1.[Archisman Karmakar](https://www.github.com/ArchismanKarmakar)
